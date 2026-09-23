@@ -23,3 +23,5 @@ NGINX, KUBERNETES, DOCKERS
 - Ansible
 - Prometheus
 - Grafana
+Etapa actual: Git y GitHub
+Etapa actual: Git y GitHub
